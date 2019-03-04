@@ -1,2 +1,2 @@
 "Hellogit"
-sharing is fun and easy
+sharing is fun and easy"fixing bugs" 
